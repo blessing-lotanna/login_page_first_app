@@ -22,7 +22,7 @@ class _PasswordEntryState extends State<PasswordEntry> {
           child: TextField(
           decoration: InputDecoration(
               border: InputBorder.none,
-              hintText: 'Password'
+              hintText: 'Password hello'
           ),
           keyboardType: TextInputType.number,
           obscureText: widget.viewPassword,
